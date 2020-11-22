@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA,OACC,cAAe,CACf,sBAAuB","file":"style.min.css","sourcesContent":[".block {\r\n\tdisplay: inline;\r\n\tbackground-color: green;\r\n}"]}
